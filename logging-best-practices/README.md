@@ -1,3 +1,4 @@
+Reference: https://github.com/boristane/agent-skills
 # Logging Best Practices Skill
 
 A skill for AI coding assistants to apply logging best practices when writing or reviewing code.
